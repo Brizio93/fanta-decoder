@@ -1,14 +1,7 @@
 <html>
 <body>
 
-In prima elementare ci siamo innamorati della lettura.
-Semplici parole scritte che evocano vivide immagini nella mente.
-Crescendo, abbiamo affrontato testi e linguaggi via via più complessi.
-E se vi dicessi che anche i files tecnici contengono immagini altrettanto belle? Tutto dipende dalla codifica con cui vengono letti!
-<br>
-<br>
-FantaDecoder implementa alcune decodifiche che permettono di estrapolare un'immagine a partire da una qualsiasi sequenza di caratteri. 
-In fondo possiamo dire che quelle immagini erano da sempre contenute in quei testi, e aspettavano solo di essere decodificate.
+FantaDecoder è un lettore di immagini. 
 <br>
 <br>
 <textarea placeholder="Inserisci qui il tuo testo"></textarea>
