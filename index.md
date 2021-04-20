@@ -4,8 +4,7 @@
 In prima elementare ci siamo innamorati della lettura.
 Semplici parole scritte che evocano vivide immagini nella mente.
 Crescendo, abbiamo affrontato testi e linguaggi via via più complessi.
-E se vi dicessi che anche i files tecnici contengono immagini altrettanto belle?
-Ma certo, tutto dipende dalla codifica con cui vengono letti!
+E se vi dicessi che anche i files tecnici contengono immagini altrettanto belle? Tutto dipende dalla codifica con cui vengono letti!
 <br>
 <br>
 FantaDecoder implementa alcune decodifiche che permettono di leggere un'immagine a partire da una qualsiasi sequenza di caratteri. 
