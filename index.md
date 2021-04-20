@@ -8,7 +8,7 @@ E se vi dicessi che anche i files tecnici contengono immagini altrettanto belle?
 E' chiaro: tutto dipende dalla codifica.
 <br>
 <br>
-FantaDecoder implementa alcune decodifiche che permettono di ricavare meravigliose immagini da qualsiasi sequenza di caratteri. In fondo possiamo dire che quelle immagini erano da sempre contenute in quei testi, e aspettavano solo di essere decodificate.
+FantaDecoder implementa alcune decodifiche che permettono di leggere meravigliose immagini in qualsiasi sequenza di caratteri. In fondo possiamo dire che quelle immagini erano da sempre contenute in quei testi, e aspettavano solo di essere decodificate.
 <br>
 <br>
 <textarea placeholder="Inserisci qui il tuo testo"></textarea>
