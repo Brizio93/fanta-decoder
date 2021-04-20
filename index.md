@@ -15,7 +15,7 @@ Inserisci il tuo testo:
 <br>
 <textarea></textarea>
 <br>
-<button onclick="myFunction()">Scopri l'immagine contenuta</button>
+<button onclick="myFunction()">Scopri l'immagine codificata</button>
 <p id="demo"></p>
 
 <script>
