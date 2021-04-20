@@ -1,5 +1,7 @@
 <html>
 <body>
+  
+<img src="butterfly-142506_1280.jpg">
 
 <button onclick="myFunction()">Click me</button>
 <p id="demo"></p>
