@@ -2,7 +2,7 @@
 <body>
 
 In prima elementare ci siamo innamorati della scrittura.
-Bastava scrivere "il gatto è sul tavolo" per evocare una gioconda immagine nella mente.
+Bastava scrivere "il gatto è sul tavolo" per evocare una vivida immagine nella mente.
 Crescendo, abbiamo affrontato testi e linguaggi via via più complessi.
 E se vi dicessi che anche i files tecnici contengono immagini altrettanto belle?
 E' chiaro: tutto dipende dalla codifica.
