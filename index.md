@@ -1,8 +1,8 @@
 <html>
 <body>
 
-In prima elementare ci siamo innamorati della scrittura.
-Bastava scrivere "il gatto è sul tavolo" per evocare una vivida immagine nella mente.
+In prima elementare ci siamo innamorati della lettura.
+Semplici parole scritte evocavano vivide immagini nella nostra mente.
 Crescendo, abbiamo affrontato testi e linguaggi via via più complessi.
 E se vi dicessi che anche i files tecnici contengono immagini altrettanto belle?
 Tutto dipende dalla codifica con cui vengono lette!
