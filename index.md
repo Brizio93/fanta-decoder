@@ -15,7 +15,8 @@ Inserisci il tuo testo:
 <br>
 <textarea></textarea>
 <br>
-<button onclick="myFunction()">Rivela l'immagine contenuta</button>
+<button>Scegli la decodifica</button>
+<button onclick="myFunction()">Scopri l'immagine contenuta</button>
 <p id="demo"></p>
 
 <script>
