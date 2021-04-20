@@ -5,7 +5,7 @@ Inserisci il codice o un testo qualsiasi:
 <br>
 <textarea></textarea>
 <br>
-<button onclick="myFunction()">Estrapola immagine nascosta</button>
+<button onclick="myFunction()">Ricostruisci immagine nascosta</button>
 <p id="demo"></p>
 
 <script>
