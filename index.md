@@ -1,7 +1,8 @@
 <html>
 <body>
 
-Inserisci il codice o testo qualsiasi:
+Inserisci il codice o un testo qualsiasi:
+<br>
 <textarea></textarea>
 <br>
 <button onclick="myFunction()">Estrapola immagine nascosta</button>
