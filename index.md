@@ -6,7 +6,8 @@
 <p id="demo"></p>
 
 <script>
-document.getElementById("demo").innerHTML = "My First JavaScript";
+let msg = 'hello world'
+$('#header').html(msg).fadeOut(1000).fadeIn(2000)
 </script>
 
 </body>
