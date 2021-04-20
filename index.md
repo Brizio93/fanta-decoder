@@ -1,3 +1,4 @@
+<html>
 <body>
 
 <button onclick="myFunction()">Click me</button>
