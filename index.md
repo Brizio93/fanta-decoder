@@ -5,7 +5,7 @@ In prima elementare ci siamo innamorati della scrittura.
 Bastava scrivere "il gatto è sul tavolo" per evocare una vivida immagine nella mente.
 Crescendo, abbiamo affrontato testi e linguaggi via via più complessi.
 E se vi dicessi che anche i files tecnici contengono immagini altrettanto belle?
-Tutto dipende dalla codifica.
+Tutto dipende dalla codifica con cui vengono lette!
 <br>
 <br>
 FantaDecoder implementa alcune decodifiche che permettono di leggere un'immagine da una qualsiasi sequenza di caratteri. 
