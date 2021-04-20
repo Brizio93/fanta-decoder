@@ -4,7 +4,7 @@
 In prima elementare ci siamo innamorati della lettura.
 Semplici parole scritte che evocano vivide immagini nella mente.
 Crescendo, abbiamo affrontato testi e linguaggi via via più complessi.
-E se vi dicessi che anche i files tecnici contengono figurazioni altrettanto belle?
+E se vi dicessi che anche i files tecnici contengono immagini altrettanto belle?
 Ma certo, tutto dipende dalla codifica con cui vengono letti!
 <br>
 <br>
