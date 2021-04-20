@@ -1,8 +1,10 @@
 <html>
 <body>
 
+Inserisci il codice o testo qualsiasi:
 <textarea></textarea>
-<button onclick="myFunction()">Ricostruisci immagine nascosta</button>
+<br>
+<button onclick="myFunction()">Estrapola immagine nascosta</button>
 <p id="demo"></p>
 
 <script>
