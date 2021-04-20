@@ -11,9 +11,7 @@ E' chiaro: tutto dipende dalla codifica.
 FantaDecoder implementa alcune decodifiche che permettono di ricavare meravigliose immagini da qualsiasi testo. In fondo possiamo dire che quelle immagini erano da sempre contenute in quei testi, e aspettavano solo di essere svelate.
 <br>
 <br>
-Inserisci il tuo testo:
-<br>
-<textarea></textarea>
+<textarea placeholder="Inserisci il tuo testo..."></textarea>
 <br>
 <button onclick="myFunction()">Scopri l'immagine contenuta</button>
 <button>Cambia la decodifica</button>
