@@ -5,7 +5,7 @@ Inserisci il tuo codice o un testo qualsiasi:
 <br>
 <textarea></textarea>
 <br>
-<button onclick="myFunction()">Decodifica l'immagine segreta</button>
+<button onclick="myFunction()">Decodifica l'immagine contenuta</button>
 <p id="demo"></p>
 
 <script>
