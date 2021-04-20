@@ -1,7 +1,8 @@
 <html>
 <body>
 
-<button onclick="myFunction()">Click me</button>
+<textarea></textarea>
+<button onclick="myFunction()">Ricostruisci immagine nascosta</button>
 <p id="demo"></p>
 
 <script>
