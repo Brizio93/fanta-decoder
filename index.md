@@ -1,7 +1,7 @@
 <html>
 <body>
 
-Inserisci il codice o un testo qualsiasi:
+Inserisci il tuo codice o un testo qualsiasi:
 <br>
 <textarea></textarea>
 <br>
