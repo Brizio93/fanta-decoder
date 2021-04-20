@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<h2>JavaScript in Body</h2>
+<h2>Prova JS</h2>
 
 <p id="demo"></p>
 
