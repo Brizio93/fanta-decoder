@@ -7,7 +7,7 @@ Crescendo, abbiamo affrontato testi e linguaggi via via più complessi.
 E se vi dicessi che anche i files tecnici contengono immagini altrettanto belle? Tutto dipende dalla codifica con cui vengono letti!
 <br>
 <br>
-FantaDecoder implementa alcune decodifiche che permettono di leggere un'immagine a partire da una qualsiasi sequenza di caratteri. 
+FantaDecoder implementa alcune decodifiche che permettono di identificare un'immagine a partire da una qualsiasi sequenza di caratteri. 
 In fondo possiamo dire che quelle immagini erano da sempre contenute in quei testi, e aspettavano solo di essere decodificate.
 <br>
 <br>
