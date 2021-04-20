@@ -4,8 +4,10 @@
 In prima elementare ci siamo innamorati della scrittura.
 Bastava scrivere "il gatto è sul tavolo" per evocare una gioconda immagine nella mente.
 Crescendo, abbiamo affrontato testi e linguaggi via via più complessi.
-E se vi dicessi che anche un file di configurazione di un router, o lo svolgimento di un probelma di algebra, o una stringa di caratteri casuali, contengono immagini altrettanto belle?
+E se vi dicessi che anche i files tecnici contengono immagini altrettanto belle?
 E' chiaro: tutto dipende dalla codifica.
+<br>
+<br>
 FantaDecoder implementa delle decodifiche che permettono di ricavare meravigliose immagini da qualsiasi testo. In fondo possiamo dire che quelle immagini erano da sempre contenute in quei testi, e aspettavano solo di essere svelate da FantaDecoder.
 <br>
 <br>
