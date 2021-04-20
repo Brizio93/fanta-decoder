@@ -6,12 +6,14 @@ Bastava scrivere "il gatto è sul tavolo" per evocare una gioconda immagine nell
 Crescendo, abbiamo affrontato testi e linguaggi via via più complessi.
 E se vi dicessi che anche un file di configurazione di un router, o lo svolgimento di un probelma di algebra, o una stringa di caratteri casuali, contengono immagini altrettanto belle?
 E' chiaro: tutto dipende dalla codifica.
-
+FantaDecoder implementa delle decodifiche che permettono di ricavare meravigliose immagini da qualsiasi testo. In fondo possiamo dire che quelle immagini erano da sempre contenute in quei testi, e aspettavano solo di essere svelate da FantaDecoder.
+<br>
+<br>
 Inserisci il tuo testo:
 <br>
 <textarea></textarea>
 <br>
-<button onclick="myFunction()">Scopri per quale immagine codifica</button>
+<button onclick="myFunction()">Scopri l'immagine contenuta</button>
 <p id="demo"></p>
 
 <script>
