@@ -11,7 +11,7 @@
     <br>
     <textarea id="text" placeholder="Inserisci qui il tuo testo"></textarea>
     <br>
-    <button onclick="myFunction()">Scopri l'immagine contenuta</button>
+    <button onclick="asciiSum()">Scopri l'immagine contenuta</button>
     <button>Cambia la decodifica</button>
     <p id="outlet"></p>
 
