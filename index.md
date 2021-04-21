@@ -12,7 +12,7 @@ Stai lavorando o studiando su un testo che non ti ispira? Forse semplicemente no
 
 <script>
 function myFunction() {
-  var x = document.getElementById("myText").value;
+  var x = document.getElementById("text").value;
   document.getElementById("demo").innerHTML = "<img src=\"butterfly-142506_1280.jpg\"> <br> <button>Mostra passaggi di decodifica</button>" + x;
 }
 </script>
