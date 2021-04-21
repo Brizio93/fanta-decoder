@@ -15,12 +15,6 @@
     <button>Cambia la decodifica</button>
     <p id="outlet"></p>
 
-    <textarea id="text" placeholder="Inserisci qui il tuo testo"></textarea>
-    <br>
-    <button onclick="asciiSum()">Scopri l'immagine contenuta</button>
-    <button>Cambia la decodifica</button>
-    <p id="outlet"></p>
-
     <script>
       function asciiSum() {
         var input = document.getElementById("text").value;
