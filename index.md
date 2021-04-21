@@ -24,8 +24,8 @@
         }
         letterNum = sum%21;
         document.getElementById("outlet").innerHTML = 
-        "<img src=\"butterfly-142506_1280.jpg\"> <br> <button>Mostra passaggi di decodifica</button> <br> Somma dei valori ASCII presenti: "
-        + sum + "<br> Valore alfabetico corrispondente: " + sum + " (mod 21) = " + letterNum;
+        "<img src=\"butterfly-142506_1280.jpg\"> <br> <button>Mostra passaggi di decodifica</button> <br> Somma dei valori ASCII presenti = "
+        + sum + "<br> Valore alfabetico corrispondente (mod 21) = " + letterNum;
       }
     </script>
 
