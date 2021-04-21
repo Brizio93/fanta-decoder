@@ -1,5 +1,6 @@
 <html>
   <body>
+    Versione demo 1.0
 
     Stai lavorando o studiando su un testo che non ti ispira? 
     Questo sito potrebbe aiutarti a trovare l'ispirazione!
