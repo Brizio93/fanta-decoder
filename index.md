@@ -15,14 +15,27 @@
     <button>Cambia la decodifica</button>
     <p id="outlet"></p>
 
-  <script>
-    function myFunction() {
-      var input = document.getElementById("text").value;
-      if(input=="Farfalla"){
-        document.getElementById("outlet").innerHTML = "<img src=\"butterfly-142506_1280.jpg\"> <br> <button>Mostra passaggi di decodifica</button>";
-      }
-    }
-  </script>
+    <textarea id="text" placeholder="Inserisci qui il tuo testo"></textarea>
+    <br>
+    <button onclick="asciiSum()">Scopri l'immagine contenuta</button>
+    <button>Cambia la decodifica</button>
+    <p id="outlet"></p>
 
-  </body>
-</html>
+    <script>
+      function asciiSum() {
+        var input = document.getElementById("text").value;
+        var sum = 0;
+        for(i=0; i<input.length; i++){
+          sum = sum + input.charCodeAt(i);
+        }
+        console.log(sum);
+        letterNum = sum%21;
+        console.log(letterNum);
+        document.getElementById("outlet").innerHTML = 
+        "<img src=\"butterfly-142506_1280.jpg\"> <br> <button>Mostra passaggi di decodifica</button> <br>"
+        + sum + "<br>" + letterNum;
+      }
+    </script>
+
+    </body>
+  </html>
