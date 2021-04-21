@@ -1,7 +1,7 @@
-#Versione demo 1.0
 <html>
   <body>
     
+    <h6>#Versione demo 1.0</h6>
     Stai lavorando o studiando su un testo che non ti ispira? 
     Questo sito potrebbe aiutarti a trovare l'ispirazione!
     Incolla qui il testo, qualunque cosa sia (poesie, procedure informatiche, formule matematiche, ...) e avvia il FantaDecoder. 
@@ -30,5 +30,5 @@
       }
     </script>
 
-    </body>
-  </html>
+  </body>
+</html>
