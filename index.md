@@ -1,7 +1,7 @@
 <html>
 <body>
 
-FantaDecoder è un lettore di immagini. 
+Stai lavorando o studiando su un testo che non ti ispira? Forse semplicemente non lo guardi con gli occhi giusti. Questo sito potrebbe aiutarti a trovare l'ispirazione. Incolla qui il testo, qualunque cosa sia (poesie, procedure informatiche, formule matematiche, ...) e avvia il FantaDecoder. Esso elaborerà il testo secondo uno dei suoi algoritmi di decodifica, per arrivare infine a un'immagine ispirazionale. In un certo senso essa era già contenuta nel testo, era solo da decifrare. Questo dimostra come a volte dobbiamo solo cambiare il nostro modo di vedere le cose per iniziare ad apprezzarle.
 <br>
 <br>
 <textarea placeholder="Inserisci qui il tuo testo"></textarea>
