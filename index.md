@@ -18,8 +18,8 @@
     
     <style>
       textarea {
-        font-size:15px;
-        width:100%;
+        font-size: 15px;
+        width: 100%;
         height: 150px;
       }
     </style>
