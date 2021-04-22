@@ -48,7 +48,7 @@
       }
       function showSteps() {
         document.getElementById("steps").innerHTML = "Somma dei valori ASCII presenti = " + sum + "<br> Valore alfabetico (somma mod 21 + 1) = " + letterNum
-        + "Lettera corrispondente:" + dictionary[letterNum];
+        + "<br> Lettera corrispondente:" + dictionary[letterNum];
       }
     </script>
 
