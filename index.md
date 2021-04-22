@@ -32,7 +32,7 @@
       var sum;
       var letterNum;
       const dictionary = [
-        "A come", "B come", "C come", "D come", "E come", "F come", "G come",
+        "A come Alba", "B come", "C come", "D come", "E come", "F come Farfalla", "G come",
         "H come", "I come", "L come", "M come", "N come", "O come", "P come",
         "Q come", "R come", "S come", "T come", "U come", "V come", "Z come"
       ]
