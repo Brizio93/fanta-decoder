@@ -14,7 +14,7 @@
     <br>
     <button onclick="asciiSum()">Scopri l'immagine contenuta</button>
     <br>
-    <button>Cambia la decodifica (bottone disabilitato nella demo)</button>
+    <button>Cambia la decodifica (non presente nella demo)</button>
     <p id="outlet"></p>
     
     <style>
