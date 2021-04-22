@@ -17,10 +17,10 @@
     <p id="outlet"></p>
     
     <style>
-    textarea {
+      textarea {
         font-size:20px;
         width:100%;
-    }
+      }
     </style>
 
     <script>
