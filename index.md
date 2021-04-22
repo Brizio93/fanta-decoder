@@ -16,7 +16,7 @@
     <br>
     <button onclick="asciiSum()">Scopri l'immagine contenuta</button>
     <img id=imageOut>
-    <p id="stepsPar"></p>
+    <p id="textOut"></p>
 
     <style>
       textarea {
@@ -46,7 +46,7 @@
         letterNum = sum%21 + 1;
         imageRef = "images/" + dictionary[letterNum-1] + ".jpg";
         document.getElementById("imageOut").src = imageRef;
-        document.getElementById("stepsPar").innerHTML = 
+        document.getElementById("textOut").innerHTML = 
         "<button onclick=\"showSteps()\">Mostra passaggi di decodifica</button> <br> <p id=\"steps\"></p>";
       }
       function showSteps() {
