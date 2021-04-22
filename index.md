@@ -12,7 +12,7 @@
     <br>
     <textarea id="text" placeholder="Inserisci qui il tuo testo"></textarea>
     <br>
-    <button>Cambia la decodifica (non presente nella demo)</button>
+    <button>Scegli la decodifica (disabilitato nella demo)</button>
     <br>
     <button onclick="asciiSum()">Scopri l'immagine contenuta</button>
     <p id="outlet"></p>
