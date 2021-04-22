@@ -15,7 +15,8 @@
     <button>Scegli la decodifica (disabilitato nella demo)</button>
     <br>
     <button onclick="asciiSum()">Scopri l'immagine contenuta</button>
-    <p id="image"></p>
+    <img id=imageOut>
+    <p id="stepsPar"></p>
 
     <style>
       textarea {
@@ -44,10 +45,9 @@
         }
         letterNum = sum%21 + 1;
         imageRef = "images/" + dictionary[letterNum-1] + ".jpg";
-        console.log(imageRef);
-        document.getElementById("image").innerHTML = 
-        "<img src=\"images/A come Alba.jpg\"> <br> <button onclick=\"showSteps()\">Mostra passaggi di decodifica</button> <br> <p id=\"steps\"></p>";
-        document.getElementById("steps").innerHTML = "<img src=imageRef>
+        document.getElementById("imageOut").src = imageRef;
+        document.getElementById("stepsPar").innerHTML = 
+        "<button onclick=\"showSteps()\">Mostra passaggi di decodifica</button> <br> <p id=\"steps\"></p>";
       }
       function showSteps() {
         document.getElementById("steps").innerHTML = "Somma dei valori ASCII presenti = " + sum + "<br> Valore alfabetico (somma mod 21 + 1) = " + letterNum
