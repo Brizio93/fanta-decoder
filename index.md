@@ -35,7 +35,7 @@
         for(i=0; i<input.length; i++){
           sum += input.charCodeAt(i);
         }
-        letterNum = sum%21 + 1;
+        var letterNum = sum%21 + 1;
         document.getElementById("image").innerHTML = 
         "<img src=\"butterfly-142506_1280.jpg\"> <br> <button onclick=\"showSteps()\">Mostra passaggi di decodifica</button> <br> <p id=\"steps\"></p>";
       }
