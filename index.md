@@ -10,7 +10,7 @@
     Questo dimostra come a volte dobbiamo solo cambiare il nostro modo di vedere le cose per iniziare ad apprezzarle.
     <br>
     <br>
-    <textarea id="text" placeholder="Inserisci qui il tuo testo (minimo 10 caratteri)"></textarea>
+    <textarea id="text" placeholder="Inserisci qui il tuo testo (minimo 50 caratteri)"></textarea>
     <br>
     <button>Scegli la decodifica (disabilitato nella demo)</button>
     <br>
@@ -39,7 +39,7 @@
       ]
       function asciiSum() {
         var input = document.getElementById("text").value;
-        if(input.length<10) {
+        if(input.length<50) {
           document.getElementById("imageOut").src = "images/Error.jpg";
           document.getElementById("textOut").innerHTML = "";
         }
