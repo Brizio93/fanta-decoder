@@ -44,7 +44,7 @@
         }
         letterNum = sum%21 + 1;
         document.getElementById("image").innerHTML = 
-        "<img src=\"butterfly-142506_1280.jpg\"> <br> <button onclick=\"showSteps()\">Mostra passaggi di decodifica</button> <br> <p id=\"steps\"></p>";
+        "<img src=\"images/A come Alba.jpg\"> <br> <button onclick=\"showSteps()\">Mostra passaggi di decodifica</button> <br> <p id=\"steps\"></p>";
       }
       function showSteps() {
         document.getElementById("steps").innerHTML = "Somma dei valori ASCII presenti = " + sum + "<br> Valore alfabetico (somma mod 21 + 1) = " + letterNum
