@@ -2,7 +2,7 @@
   <body>
     
     <h4>Versione demo 1.0</h4>
-    Stai lavorando o studiando su un testo che non ti ispira? 
+    Stai lavorando o studiando su un testo che non ti appassiona? 
     Questo sito potrebbe aiutarti a trovare l'ispirazione!
     Incolla qui una porzione di testo di qualunque natura (es: una poesia, del codice informatico, un problema di matematica, ...) e avvia il FantaDecoder. 
     Esso elaborerà il testo secondo uno dei suoi algoritmi di decodifica, per arrivare infine a un'immagine ispirazionale. 
