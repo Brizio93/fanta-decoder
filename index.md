@@ -39,7 +39,7 @@
       ]
       function asciiSum() {
         var input = document.getElementById("text").value;
-        if(input.lenght<10) {
+        if(input.length<10) {
           document.getElementById("imageOut").src = "images/Error.jpg";
           document.getElementById("textOut").innerHTML = "";
         }
