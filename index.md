@@ -43,11 +43,16 @@
         for(i=0; i<input.length; i++){
           sum += input.charCodeAt(i);
         }
-        letterNum = sum%21 + 1;
-        imageRef = "images/" + dictionary[letterNum-1] + ".jpg";
-        document.getElementById("imageOut").src = imageRef;
-        document.getElementById("textOut").innerHTML = 
-        "<button onclick=\"showSteps()\">Mostra passaggi di decodifica</button> <br> <p id=\"steps\"></p>";
+        if(sum%2==0) {
+          document.getElementById("imageOut").src = "images/_golden.jpg";
+        }
+        else {
+          letterNum = sum%21 + 1;
+          imageRef = "images/" + dictionary[letterNum-1] + ".jpg";
+          document.getElementById("imageOut").src = imageRef;
+          document.getElementById("textOut").innerHTML = 
+          "<button onclick=\"showSteps()\">Mostra passaggi di decodifica</button> <br> <p id=\"steps\"></p>";
+        }
       }
       function showSteps() {
         document.getElementById("steps").innerHTML = "Somma dei valori ASCII presenti = " + sum + "<br> Valore alfabetico (somma mod 21 + 1) = " + letterNum
