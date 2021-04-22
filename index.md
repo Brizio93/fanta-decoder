@@ -15,6 +15,13 @@
     <button onclick="asciiSum()">Scopri l'immagine contenuta</button>
     <button>Cambia la decodifica</button>
     <p id="outlet"></p>
+    
+    <style>
+    textarea {
+        font-size:20px;
+        width:100%;
+    }
+    </style>
 
     <script>
       function asciiSum() {
