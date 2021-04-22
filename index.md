@@ -45,6 +45,7 @@
         }
         if(sum%2==0) {
           document.getElementById("imageOut").src = "images/_golden.jpg";
+          document.getElementById("textOut").innerHTML = "";
         }
         else {
           letterNum = sum%21 + 1;
