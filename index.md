@@ -44,8 +44,10 @@
         }
         letterNum = sum%21 + 1;
         imageRef = "images/" + dictionary[letterNum-1] + ".jpg";
+        console.log(imageRef);
         document.getElementById("image").innerHTML = 
-        "<img src=imageRef> <br> <button onclick=\"showSteps()\">Mostra passaggi di decodifica</button> <br> <p id=\"steps\"></p>";
+        "<img src=\"images/A come Alba.jpg\"> <br> <button onclick=\"showSteps()\">Mostra passaggi di decodifica</button> <br> <p id=\"steps\"></p>";
+        document.getElementById("steps").innerHTML = "<img src=imageRef>
       }
       function showSteps() {
         document.getElementById("steps").innerHTML = "Somma dei valori ASCII presenti = " + sum + "<br> Valore alfabetico (somma mod 21 + 1) = " + letterNum
