@@ -29,7 +29,7 @@
         var input = document.getElementById("text").value;
         var sum = 0;
         for(i=0; i<input.length; i++){
-          sum = sum + input.charCodeAt(i);
+          sum += input.charCodeAt(i);
         }
         letterNum = sum%21 + 1;
         document.getElementById("outlet").innerHTML = 
