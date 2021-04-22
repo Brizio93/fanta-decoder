@@ -44,7 +44,7 @@
           sum += input.charCodeAt(i);
         }
         if(sum%2==0) {
-          document.getElementById("imageOut").src = "images/_golden.jpg";
+          document.getElementById("imageOut").src = "images/Golden.jpg";
           document.getElementById("textOut").innerHTML = "";
         }
         else {
