@@ -23,7 +23,7 @@
         for(i=0; i<input.length; i++){
           sum = sum + input.charCodeAt(i);
         }
-        letterNum = sum%21;
+        letterNum = sum%21 + 1;
         document.getElementById("outlet").innerHTML = 
         "<img src=\"butterfly-142506_1280.jpg\"> <br> <button>Mostra passaggi di decodifica</button> <br> Somma dei valori ASCII presenti = "
         + sum + "<br> Valore alfabetico (somma mod 21 + 1) = " + letterNum;
