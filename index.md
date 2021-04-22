@@ -33,9 +33,9 @@
       var sum;
       var letterNum;
       const dictionary = [
-        "A come Alba", "B come", "C come", "D come", "E come", "F come Farfalla", "G come",
-        "H come", "I come", "L come", "M come", "N come", "O come", "P come",
-        "Q come", "R come", "S come", "T come", "U come", "V come", "Z come"
+        "A come Alba", "B come Barca", "C come Coralli", "D come Donna", "E come Elefante", "F come Farfalla", "G come Gatto",
+        "H come Hamburger", "I come Iridescenza", "L come Lucertola", "M come Montagne", "N come Nettare", "O come Olio", "P come Piante",
+        "Q come Quaglia", "R come Rosa", "S come Sorgente", "T come Torta", "U come Uva", "V come Vitamine", "Z come Zenzero"
       ]
       function asciiSum() {
         var input = document.getElementById("text").value;
