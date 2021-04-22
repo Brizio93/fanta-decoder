@@ -10,7 +10,7 @@
     Questo dimostra come a volte dobbiamo solo cambiare il nostro modo di vedere le cose per iniziare ad apprezzarle.
     <br>
     <br>
-    <textarea id="text" placeholder="Inserisci qui il tuo testo"></textarea>
+    <textarea id="text" placeholder="Inserisci qui il tuo testo (minimo 10 caratteri)"></textarea>
     <br>
     <button>Scegli la decodifica (disabilitato nella demo)</button>
     <br>
@@ -39,20 +39,26 @@
       ]
       function asciiSum() {
         var input = document.getElementById("text").value;
-        sum = 0;
-        for(i=0; i<input.length; i++){
-          sum += input.charCodeAt(i);
-        }
-        if(sum%2==0) {
-          document.getElementById("imageOut").src = "images/Golden.jpg";
+        if(input.lenght<10) {
+          document.getElementById("imageOut").src = "images/Error.jpg";
           document.getElementById("textOut").innerHTML = "";
         }
         else {
-          letterNum = sum%21 + 1;
-          imageRef = "images/" + dictionary[letterNum-1] + ".jpg";
-          document.getElementById("imageOut").src = imageRef;
-          document.getElementById("textOut").innerHTML = 
-          "<button onclick=\"showSteps()\">Mostra passaggi di decodifica</button> <br> <p id=\"steps\"></p>";
+          sum = 0;
+          for(i=0; i<input.length; i++){
+            sum += input.charCodeAt(i);
+          }
+          if(sum%100==0) {
+            document.getElementById("imageOut").src = "images/Golden.jpg";
+            document.getElementById("textOut").innerHTML = "";
+          }
+          else {
+            letterNum = sum%21 + 1;
+            imageRef = "images/" + dictionary[letterNum-1] + ".jpg";
+            document.getElementById("imageOut").src = imageRef;
+            document.getElementById("textOut").innerHTML = 
+            "<button onclick=\"showSteps()\">Mostra passaggi di decodifica</button> <br> <p id=\"steps\"></p>";
+          }
         }
       }
       function showSteps() {
