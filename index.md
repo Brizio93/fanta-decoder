@@ -40,7 +40,7 @@
         "<img src=\"butterfly-142506_1280.jpg\"> <br> <button onclick=\"showSteps()\">Mostra passaggi di decodifica</button> <br> <p id=\"steps\"></p>";
       }
       function showSteps() {
-        document.getElementById("steps").innerHTML = "prova";
+        document.getElementById("steps").innerHTML = sum + "<br> + letterNum;
       }
     </script>
 
