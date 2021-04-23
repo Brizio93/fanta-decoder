@@ -25,8 +25,7 @@
     se si desidera scaricarle e/o riutilizzarle si invita a visitare tale sito per farlo secondo i suoi termini e condizioni. 
     <br>
     I contenuti statici di fanta-decoder, di per sé, non hanno nulla di illecito, offensivo, o di cattivo gusto. 
-    Fanta-decoder declina ogni responsabilità per un uso offensivo dello strumento, 
-    ad esempio inserendo testi con contenuti personali o scorretti, oppure ricercando simboli grafici inappropriati nella modalità di generazione dinamica delle immagini.
+    Fanta-decoder declina ogni responsabilità per un uso offensivo dello strumento, ad esempio inserendo testi con contenuti personali o scorretti.
     Qualsiasi associazione prodotta da fanta-decoder non ha, e non vuole avere, alcuna valenza semantica, ma solo formale, 
     pertanto ogni possibile insinuazione è puramente casuale.
 
