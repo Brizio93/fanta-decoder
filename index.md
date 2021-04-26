@@ -17,6 +17,12 @@
     <p id="textOut"></p>
     <br>
     <br>
+    <h4>Prossimamente</h4>
+    La prossima versione includerà un generatore di "fanta-ideogrammi". 
+    Ad ogni lettera, anche in base alla sua posizione, sarà associato un segno colorato, 
+    per ottenere un disegno astratto caratterizzante univocamente ciascuna parola.
+    <br>
+    <br>
     <br>
     <h4>Avviso</h4>
     Le immagini statiche presenti sono tratte da <a href="https://pixabay.com/">pixabay.com</a>: 
