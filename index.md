@@ -20,7 +20,7 @@
     <h4>Prossimamente</h4>
     La prossima versione includerà un generatore di "fanta-ideogrammi". 
     Ad ogni lettera, anche in base alla sua posizione, sarà associato un segno colorato, 
-    per ottenere un disegno astratto caratterizzante univocamente ciascuna parola.
+    per ottenere nel complesso un disegno astratto, caratterizzante univocamente ciascuna parola.
     <br>
     <br>
     <br>
