@@ -5,14 +5,12 @@
     Stai lavorando o studiando su un testo che non ti appassiona? 
     Questo sito potrebbe aiutarti a trovare l'ispirazione!
     Incolla qui una porzione di testo di qualunque natura (es: una poesia, del codice informatico, un problema di matematica, ...) e avvia il FantaDecoder. 
-    Esso elaborerà il testo secondo uno dei suoi algoritmi di decodifica, per arrivare infine a un'immagine ispirazionale. 
+    Esso elaborerà il testo secondo il suo algoritmo di decodifica, per arrivare infine a un'immagine ispirazionale. 
     In un certo senso, tale immagine era già contenuta nel testo, in attesa di essere decodificata e scoperta. 
     Questo dimostra come a volte dobbiamo solo cambiare il nostro modo di vedere le cose per iniziare ad apprezzarle.
     <br>
     <br>
     <textarea id="text" placeholder="Inserisci qui il tuo testo (minimo 50 caratteri)"></textarea>
-    <br>
-    <button>Scegli la decodifica (disabilitato nella demo)</button>
     <br>
     <button onclick="asciiSum()">Scopri l'immagine contenuta</button>
     <img id=imageOut>
